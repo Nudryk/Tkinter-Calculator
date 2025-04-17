@@ -29,3 +29,18 @@ Instead of using Python’s native `eval()` (which is risky in certain contexts)
 ```bash
 git clone https://github.com/your-username/secure-calculator.git
 cd secure-calculator
+```
+
+### 2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## ▶️ Run the calculator
+
+```
+python calculator.pyw
+```
